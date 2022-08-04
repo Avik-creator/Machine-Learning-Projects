@@ -37,22 +37,12 @@ ML model that detects diseases from provided symptoms provide by user using Deci
 
 <hr>
 
-## To run the code in local: 🏃🏻‍♀️💻
-1. Clone the Repository.<br>
-```
-  git clone https://github.com/abhijeet007rocks8/Dev-Scripts.git 
-```
-2. Run Jupyter Notebook.<br>
-3. Navigate to the source  file.
----
-    Dev-Scripts\Python\Machine Learning\Disease_Predictor
----
 
 
-4. Click on " DiseasePrediction.ipynb " to open the file.
+* Click on " DiseasePrediction.ipynb " to open the file.
 <img width = " 100%" src="https://user-images.githubusercontent.com/73611313/159130217-a62b22ca-223f-4c52-ad57-3ee5cc6ff605.png">
 
-5. Select Cell and Choose Run All <br>
+* Select Cell and Choose Run All <br>
 
  <img width="100%" src="https://user-images.githubusercontent.com/73611313/159129960-b202d8b7-4218-4340-9494-c4215a9f4af3.png">
 
