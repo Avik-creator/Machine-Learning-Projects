@@ -66,14 +66,3 @@ ML model that detects diseases from provided symptoms provide by user using Deci
 
 <hr>
 
-
-
-
-## Demo Video: 📽️ 
----
-
-
-https://user-images.githubusercontent.com/73611313/159130826-8e7f65c8-5aad-45b3-91de-9d2bed32b926.mp4
-
-
----
