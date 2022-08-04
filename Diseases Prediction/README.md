@@ -60,7 +60,7 @@ ML model that detects diseases from provided symptoms provide by user using Deci
 
 ## GUI Preview: 📷
 
-![ss](https://user-images.githubusercontent.com/73611313/159130087-c3024c7f-06a1-4d42-873a-cb73900d7f6b.png)
+![ss] (<img width="879" alt="Screenshot 2022-08-04 at 10 01 29 PM" src="https://user-images.githubusercontent.com/77090462/182903365-fdd0e0f2-7b13-4159-af6d-79413a18ae8d.png">)
 
   
 
